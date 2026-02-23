@@ -1,6 +1,12 @@
 ---
 name: minions-prospecting
-description: Web search configs, prospect discovery rules, and lead scoring criteria
+id: OC-0146
+version: 1.0.0
+description: "Web search configs, prospect discovery rules, and lead scoring criteria"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-prospecting — Agent Skills
