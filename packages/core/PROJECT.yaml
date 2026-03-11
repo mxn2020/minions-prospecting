@@ -6,3 +6,4 @@ description: "Web search configs, prospect discovery rules, and lead scoring cri
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox

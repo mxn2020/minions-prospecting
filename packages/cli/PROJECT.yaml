@@ -6,3 +6,4 @@ description: "CLI for minions-prospecting — Web search configs, prospect disco
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
