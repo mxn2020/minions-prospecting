@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/@minions-prospecting/sdk/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # @minions-prospecting/sdk
 
 Web search configs, prospect discovery rules, and lead scoring criteria

@@ -1,0 +1,15 @@
+name: minions-prospecting-workspace
+project_scope: main
+project_type: monorepo
+description: "Web search configs, prospect discovery rules, and lead scoring criteria"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-prospecting"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, prospecting]
+notes: null
+id: 818619fe-d80e-415a-b55d-a0464028e2ec
