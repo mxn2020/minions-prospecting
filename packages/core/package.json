@@ -1,6 +1,6 @@
 {
   "name": "@minions-prospecting/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Web search configs, prospect discovery rules, and lead scoring criteria",
   "type": "module",
   "main": "./dist/index.js",

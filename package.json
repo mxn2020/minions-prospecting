@@ -1,7 +1,7 @@
 {
   "name": "minions-prospecting-workspace",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Web search configs, prospect discovery rules, and lead scoring criteria",
   "type": "module",
   "license": "MIT",
